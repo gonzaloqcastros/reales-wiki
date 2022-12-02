@@ -1,0 +1,17 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(255, 163, 78);
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+a:hover {
+  color: rgb(0, 17, 255);
+}
+
+/*# sourceMappingURL=estilos.css.map */

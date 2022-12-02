@@ -1,0 +1,21 @@
+@mixin font_texto {
+    color: red;
+    font-size:27px;
+    font-family: 'Inter', serif;
+}
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(255, 163, 78);
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    &:hover{
+        color: rgb(0, 17, 255);
+    }
+}
